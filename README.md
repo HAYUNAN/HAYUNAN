@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=130&section=header&text=Dayebee's Github&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=130&section=header&text=Dayebee's%20Github&fontSize=45" />
 </div>
 
 <!--내용 부분-->
