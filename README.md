@@ -61,9 +61,8 @@
   <a href="https://tungsten-aquarius-7eb.notion.site/YHSTUDY-d15b49e630534038bca2b3cf692e722a?pvs=4">
     <img src="https://img.shields.io/badge/notion-1EBC8F?style=for-the-badge&logo=notion&logoColor=white" />
   </a>&nbsp
-  <a href="mailto:yoonani2720@gmail.com">
-    <img
-      src="https://img.shields.io/badge/yoonani2720@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/hayunan/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp
   <a href="mailto:yoonani2720@naver.com">
     <img
